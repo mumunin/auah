@@ -97,6 +97,22 @@
     },
     {
         "id_iptv": "prominton",
+        "nama_channel": "DAZN Formula 1",
+        "jenis": "dash-clearkey",
+        "url_iptv": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "url_license": "1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },   
+    {
+        "id_iptv": "prominton",
         "nama_channel": "TNT Sports 1",
         "jenis": "dash-clearkey",
         "url_iptv": "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
