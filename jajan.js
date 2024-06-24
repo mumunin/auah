@@ -154,4 +154,18 @@ initializePlayer('eu17', 'https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d
 initializePlayer('eu20', 'https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd?DVR', {'994c79af863838109e7f3503bcd2aff9': 'd2c19650ad2a2ac77a95453b941a6f0e'});
 
 
+initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
+
+initializePlayer('rtl', 'https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd', {'57e48b99f3f6d4f13f5c5afdcca084ca': '29379a5e2d3405fad2f5d9cbe92586c3'}); 
+    
+initializePlayer('daserste', 'https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd', {'667f821486adfa6df62b53e41fe60c65': 'be65cc2c378180153cbac97bc6ab8625'}); 
+
+initializePlayer('tipik', 'https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd', {'2f794d3c19854f4fa6f0183b993b86fa': '37077d010758ce2cb85ca46720884b01'}); 
+   
+initializePlayer('fs1', 'https://proji.glitch.me/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd', {'ff18f095bc835e8d902be9420438729e': 'bbfdc8de223e8b33144d5c718f01f58b'}); 
+
+initializePlayer('fs2', 'https://proji.glitch.me/https://linear.stvacdn.spectrum.com/LIVE/5099/bpk-tv/00564/drm/manifest.mpd', {'a9197045dfec5a2391fa29fc430783d8': '25a184fd32ff2022772bcc72b777489d'}); 
+    
+initializePlayer('laune', 'https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd', {'1a8315e4b64c4e638dc24d93134b9b2d': '2821b54058fb3adc9c6252c631aef9e5'}); 	
+
 });
