@@ -168,4 +168,29 @@ initializePlayer('fs2', 'https://proji.glitch.me/https://linear.stvacdn.spectrum
     
 initializePlayer('laune', 'https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd', {'1a8315e4b64c4e638dc24d93134b9b2d': '2821b54058fb3adc9c6252c631aef9e5'}); 	
 
+//ctv2ca
+    initializePlayer('copa1', 'https://pe-fa-lp01a.9c9media.com/live/CKVR/p/dash/20000001/a889a00582c22aa9/manifest.mpd', {'a4f4e148746e46bc401891571abeb0ca': '29598f41d1cca4db6288430ad065f09a','5eaecc5806202cba6d013a3b02343132':'e4b85f440f4b55a71423e3440787e4e9'});
+   
+    //sport digital
+    initializePlayer('copa2', 'https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd', {'82f8e2a17dac44c0a18f660479349c59': '1b144f73e6fefe91cd05f850e2b589d0'});
+    
+    //ctvca
+    initializePlayer('copa3', 'https://pe-fa-lp01a.9c9media.com/live/CIVI/p/dash/20000001/832d3547fbcdaed1/manifest.mpd', {'a4f4e148746e46bc401891571abeb0ca': '29598f41d1cca4db6288430ad065f09a','5eaecc5806202cba6d013a3b02343132':'e4b85f440f4b55a71423e3440787e4e9'});
+
+    //premierspott
+    initializePlayer('copa4', 'https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd', {'0005b3dba78ae0fe7a9288022d3b3736':'d2827df80dd7e9243ba6b5bbda5dfa82'});
+
+    //vsport
+    initializePlayer('copa5', 'https://testcors.starlive.workers.dev/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd', {'eab13e69793756eda77d8d71fda90d5d':'cd022e9bffa6a0d1523ee5d9fcda9ed4'});
+
+    initializePlayer('dsport', 'https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd', {'1563586185955731899c517fca4229a8': '5e987516e20522093d5ffee9a84d71b0',
+                    'e6d067c9fc4e5b14b2d199307a4d4c6e': '488991a152e05377cb46e6704a28eafc',
+                    '11aa98b988db5b1d9dd85142d1314cf9': '86d6fc031da6cca8fcf364b1655843e3'});
+    
+    initializePlayer('assp4', 'https://nontongp.livestreamingbolatv1.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd', {'bda7f74b842f4f0eb142395dadd91f07': 'fb12f661d640e4ebdf38e312302260eb'});
+
+    initializePlayer('vsportprem', 'https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd', {'eab13e69793756eda77d8d71fda90d5d':'cd022e9bffa6a0d1523ee5d9fcda9ed4'});
+
+    initializePlayer('tudn', 'https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5008/bpk-tv/08283/drm/manifest.mpd', {'C0A49BB51E4F594994FBBCB096617018':'ed1f23c764ce3897e410130a6853f5bf'});
+	
 });
