@@ -193,5 +193,7 @@ initializePlayer('laune', 'https://daiconnect.com/live/dash/rtbf/laune-premium-d
 
     initializePlayer('tudn', 'https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5008/bpk-tv/08283/drm/manifest.mpd', {'C0A49BB51E4F594994FBBCB096617018':'ed1f23c764ce3897e410130a6853f5bf'});
 
+initializePlayer('npo2', 'https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd', {'cd2e51e9dadd4e38b2b8df5680f7aa43':'ce1083c14ed247bbc693bbe6bf0fd36b'});
+	
    initializePlayer('cop1', 'https://live.mocdn.tv/out/v1/90c84746731143b8825ddc8a40cd0908/manifest_L1.mpd', {'3e17c3798a294c49b93c1b2ddbcd8f29':'0917fa8c9cf68c206efc24946d0c22cc'},true);
 });
