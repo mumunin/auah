@@ -192,5 +192,6 @@ initializePlayer('laune', 'https://daiconnect.com/live/dash/rtbf/laune-premium-d
     initializePlayer('vsportprem', 'https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd', {'eab13e69793756eda77d8d71fda90d5d':'cd022e9bffa6a0d1523ee5d9fcda9ed4'});
 
     initializePlayer('tudn', 'https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5008/bpk-tv/08283/drm/manifest.mpd', {'C0A49BB51E4F594994FBBCB096617018':'ed1f23c764ce3897e410130a6853f5bf'});
-	
+
+   initializePlayer('cop1', 'https://live.mocdn.tv/out/v1/90c84746731143b8825ddc8a40cd0908/manifest_L1.mpd', {'3e17c3798a294c49b93c1b2ddbcd8f29':'0917fa8c9cf68c206efc24946d0c22cc'},true);
 });
