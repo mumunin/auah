@@ -61,44 +61,21 @@ initializePlayer('sky257it', 'https://linear311-it-dash1-prd.selector.skycdn.it/
 
 initializePlayer('sky258it', 'https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd', {'0036fd8ccfddba47c8b40aeff63a797c':'dfd5c9d0f4ac6f3a1bd89803399e7026'});
 
-
-
-
-
-
-
-
-
 //ITV UK
-
-
-    
+  
 initializePlayer('itv4', 'https://da-3efc67452a028801000600020000000000000005.id.cdn.upcbroadband.com/wp/wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd', {'2b169fb2c3214e429b66eb2e19fcafdf':'90a98753d8f41ad08906243230975ff1'});
 
 initializePlayer('bbcone', 'https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd', {'6401e1fead9d4f43910aaad360f46dd0':'598f5e4f10d4e040d25579478cadc4ee'});
 
 initializePlayer('ch4en', 'https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09211/manifest.mpd', {'d56ff9db826b4a41af9dbd0234c31116':'ac6eaee980dff46e15670004663132a9'});
 
-
-
- 
-
-
-
 //TATA PLAY INDIA
 
-    
-
-
 initializePlayer('sony_ten2', 'https://tataplay.xyssatuu.workers.dev/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd?begin=20240612T010000&end=20240630T160000', {'6e9595fb8dd05c0aa354185bc2600854': 'edeb8dce0bcf769bdede664604a45d5b', '1cc361e170845936aea7b95c6efb478e':'edf617efde22fbd133c239ed4b47c9d3'}, true);
-
-
-
-    
+   
 // ARGENTINA
 
 //thailand
-
 
 //ENTITAS TAK DIKENAL
   
