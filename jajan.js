@@ -193,4 +193,7 @@ initializePlayer('bein2my', 'https://pop5clustera00de07172379a62d6189.hypp.tv/PL
 
 initializePlayer('bein1my', 'https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001', {'8e5c88c1ad411ce4aa1fcd3e63fa9448': 'fb4e6d3c2a444c3711477438bcc0b5fc'});	
 
+initializePlayer('p36', 'https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd', {'0dbd58616d7355b7a1a7c89df6a60199':'b755de82e54d2aa45ce8e39b80f45ed5','66f03e62d21d5a6397841fc2de1391eb':'75502c6cf014a32a18c9db45ca13a6c3','3ba59a2a76105666b260332e35e483f0':'6dca3af3176e313b6798f81120edd77d'});
+	
+	
 });
