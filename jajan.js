@@ -196,5 +196,6 @@ initializePlayer('bein1my', 'https://pop5clustera00de07172379a62d6189.hypp.tv/PL
 initializePlayer('p36', 'https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd', {'0dbd58616d7355b7a1a7c89df6a60199':'b755de82e54d2aa45ce8e39b80f45ed5','66f03e62d21d5a6397841fc2de1391eb':'75502c6cf014a32a18c9db45ca13a6c3','3ba59a2a76105666b260332e35e483f0':'6dca3af3176e313b6798f81120edd77d'});
 	
 initializePlayer('rtb', 'https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd', {'88d527f9da38f06902bd2e9b9fbed721': 'd6cf11d9103d6f0dfbecfdd301452cc3'}); 
-	
+
+initializePlayer('cde', 'https://dolocallivechanneldash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CDNDEPORTESHD)/manifest.mpd', {'b60e8067be6a2ae0a61e3b5d86bc9555':'d109e7a99d43fd6c2df88bf40b296614'});	
 });
