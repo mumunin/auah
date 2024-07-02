@@ -135,6 +135,8 @@ initializePlayer('eu21', 'https://linear301-it-dash1-prd.selector.skycdn.it/016a
   initializePlayer('eu22', 'https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master_stereo.mpd', {'00369a2c69176d5a2deff777247b6637': 'e122d4bad34c1e430ee349f5aac0060b'});
 
 initializePlayer('eu23', 'https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd', {'0036dc70e4d659fe5ae57b52793a1ff3': '55517f806b6be917c2bf0e9cf9acc44f'});
+
+initializePlayer('eu24', 'https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd', {'667f821486adfa6df62b53e41fe60c65': 'be65cc2c378180153cbac97bc6ab8625'});	
 	
 initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
 
