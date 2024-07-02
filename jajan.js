@@ -134,8 +134,8 @@ initializePlayer('eu21', 'https://linear301-it-dash1-prd.selector.skycdn.it/016a
 
   initializePlayer('eu22', 'https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master_stereo.mpd', {'00369a2c69176d5a2deff777247b6637': 'e122d4bad34c1e430ee349f5aac0060b'});
 
-  initializePlayer('eu23', 'https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd', {'748d32a5e8e64c7780df70a86a3fb1dc': 'e3deb83f5738e9ce4cdeb6cab7f473f5'});
-
+initializePlayer('eu23', 'https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd', {'0036dc70e4d659fe5ae57b52793a1ff3': '55517f806b6be917c2bf0e9cf9acc44f'});
+	
 initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
 
 initializePlayer('rtl', 'https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd', {'57e48b99f3f6d4f13f5c5afdcca084ca': '29379a5e2d3405fad2f5d9cbe92586c3'}); 
