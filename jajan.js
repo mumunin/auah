@@ -103,7 +103,7 @@ initializePlayer('sony_ten2', 'https://tataplay.xyssatuu.workers.dev/bpk-tv/irde
   initializePlayer('eu8', 'https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd', {'6401e1fead9d4f43910aaad360f46dd0':'598f5e4f10d4e040d25579478cadc4ee'});
 
     //pptvhd
-  initializePlayer('eu9', 'https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd', {'0aeffa7753674e77b99443fac7757b8a': 'b8c8a462008a40aa91823e0b02e8dd31'});
+  initializePlayer('eu9', 'https://aya-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd', {'0aeffa7753674e77b99443fac7757b8a': 'b8c8a462008a40aa91823e0b02e8dd31'});
 
     //raiit
   initializePlayer('eu10', 'https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd', {'d79467df269743b3aca99a9171c54878':'a7d3bc19bd09db6b581833e4a6176c8f'});
