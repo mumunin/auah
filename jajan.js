@@ -139,6 +139,8 @@ initializePlayer('eu23', 'https://linear301-it-dash1-prd.selector.skycdn.it/016a
 initializePlayer('eu24', 'https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd', {'667f821486adfa6df62b53e41fe60c65': 'be65cc2c378180153cbac97bc6ab8625'});	
 
 initializePlayer('eu25', 'https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd', {'11223344556677889900112233445566': '11223344556677889900112233445566'});	
+
+initializePlayer('eu26', 'https://live.vrtcdn.be/groupb/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live.isml/.mpd', {'411833676baf2e9a103bbc2f6382f94c':'5c2478f6c203def24d0a16eb05b1d6f3'});
 	
 initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
 
