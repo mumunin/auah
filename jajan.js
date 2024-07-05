@@ -203,4 +203,7 @@ initializePlayer('rtb', 'https://d1211whpimeups.cloudfront.net/smil:rtb2/manifes
 
 initializePlayer('cds1', 'https://dolocallivechanneldash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CDNDEPORTESHD)/manifest.mpd', {'b60e8067be6a2ae0a61e3b5d86bc9555':'d109e7a99d43fd6c2df88bf40b296614'});
 
+//ctv2ca
+    initializePlayer('cat2', 'https://pe-fa-lp01a.9c9media.com/live/CKVR/p/dash/20000001/a889a00582c22aa9/manifest.mpd', {'a4f4e148746e46bc401891571abeb0ca': '29598f41d1cca4db6288430ad065f09a','5eaecc5806202cba6d013a3b02343132':'e4b85f440f4b55a71423e3440787e4e9'});
+		
 });
