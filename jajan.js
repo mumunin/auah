@@ -145,6 +145,8 @@ initializePlayer('eu26', 'https://live.vrtcdn.be/groupb/live/14a2c0f6-3043-4850-
 initializePlayer('eu27', 'https://director.streaming.telia.com/tvm-packager-prod/group2/60b793a8baa9d58043263e7c/manifest.mpd', {'73ac2701b01451b996ecbc187c0b02d2':'ec6c1e923b6cfa6d716af5b961e9fa2d'});
 
 initializePlayer('eu28', 'https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd', {'01010101010101010101010101010101': '01010101010101010101010101010101'});
+
+initializePlayer('eu29', 'https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd', {'0036422cf4293ae7cf1e7f7062cc29e8':'37a223fcc17c087043bc837432fd25d8'});
 	
 initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
 
