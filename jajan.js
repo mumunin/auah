@@ -141,6 +141,8 @@ initializePlayer('eu24', 'https://p7s1-live-001-prod.akamaized.net/28df258a/t_00
 initializePlayer('eu25', 'https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd', {'11223344556677889900112233445566': '11223344556677889900112233445566'});	
 
 initializePlayer('eu26', 'https://live.vrtcdn.be/groupb/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live.isml/.mpd', {'411833676baf2e9a103bbc2f6382f94c':'5c2478f6c203def24d0a16eb05b1d6f3'});
+
+initializePlayer('eu27', 'https://director.streaming.telia.com/tvm-packager-prod/group2/60b793a8baa9d58043263e7c/manifest.mpd', {'73ac2701b01451b996ecbc187c0b02d2':'ec6c1e923b6cfa6d716af5b961e9fa2d'});
 	
 initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
 
