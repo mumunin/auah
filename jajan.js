@@ -213,5 +213,7 @@ initializePlayer('cds1', 'https://dolocallivechanneldash.clarovideo.com/Content/
 
 //ctv2ca
     initializePlayer('cat2', 'https://pe-fa-lp01a.9c9media.com/live/CKVR/p/dash/20000001/a889a00582c22aa9/manifest.mpd', {'a4f4e148746e46bc401891571abeb0ca': '29598f41d1cca4db6288430ad065f09a','5eaecc5806202cba6d013a3b02343132':'e4b85f440f4b55a71423e3440787e4e9'});
-		
+
+initializePlayer('copi2', 'https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd', {'82f8e2a17dac44c0a18f660479349c59': '1b144f73e6fefe91cd05f850e2b589d0'});
+	
 });
