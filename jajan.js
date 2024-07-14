@@ -155,6 +155,8 @@ initializePlayer('eu31', 'https://livecdn-iptv001.rumsport.com/stream/770/manife
 initializePlayer('eu32', 'https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd', {'3cde3ffa87534b1a9aeb906e17fde32f':'b11fefc8c5ca9cf5798f588969cc9ba9'});
 
 initializePlayer('eu33', 'https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd', {'ef4daa3c90333621e4115ff1ca5bfbda':'424c9902fce5a2e7dcbeb37ffc06b906'});
+
+initializePlayer('eu34', 'https://nlziet-live.akamaized.net/L10/83066be1/2964e0b7.isml/.mpd', {'079d3f2f69a749e0957478d9068369c6':'6b4a90d3e4d237aa97cad444cb977c0a'});	
 	
 initializePlayer('zdf', 'https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd', {'7757d3fa8cdab673a2dd9f3ed7b41360': '96e498b70eeecfc0164ed4e0a78e36f3'}); 
 
