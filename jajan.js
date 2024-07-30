@@ -41,9 +41,9 @@ document.addEventListener('shaka-ui-loaded', function() {
 
 
 // OLIMPIC
-initializePlayer('opc1', 'https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd', {'67617db114014f4c85793b3a23224839': '3029635a44a54dc78be8f740728a55f5'});
-initializePlayer('opc2', 'https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd', {'f9c25c77ec994a979453d826b0eda5be': 'd54c0d2c9873abcf9197bb82fd3e8a4a'});
-initializePlayer('opc3', 'https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd', {'2115349ba4d44a6aa9e19eeaab13e79f': 'c7fb6eac174c53dafe3d25c7562c0e6b'});
+initializePlayer('opc1', 'https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd', {'d6b60d4db6f046ebb800b90bd9d08ad3': '6d1594f639ea5de668ba41a191d1c215'});
+initializePlayer('opc2', 'https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd', {'4d2b7b722f564526800fd7cb058303b5': '2fed1593855c46873731379f3ab2d669'});
+initializePlayer('opc3', 'https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd', {'3b05bcb11f664736993fd5c7ddc0a0cf': 'd1f6705e028f81615221b6a7da2c91ae'});
 initializePlayer('opc4', 'https://mwmpos04.akamaized.net/out/v1/1b7d7fe5d8224ec5b751f2d0d0ae3006/manifest.mpd', {'19d5aaa09468437db25426ae88d3f731': 'c6a9f2629abdfcce6e1e2bb19970dc86'});
 initializePlayer('opc5', 'https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd', {'f47b719efa4d4cd58e60815d8e9fec0e': '252d44b5ee7d17dcbfb7d4ff74d23c5e'});
 initializePlayer('opc6', 'https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd', {'af2dc6a1c9754ec7b0ff0377da872153': '7af660ca428760dfbe99e10047e0e2e4'});
