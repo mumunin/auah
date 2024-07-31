@@ -44,8 +44,8 @@ initializePlayer('opl1', 'https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash
 initializePlayer('opl2', 'https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd', {'15382879a9bcfa6f1a04a86d5b4324e9': '664241133368ab039dc1fb15206ba54b'});
 initializePlayer('opl3', 'https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd', {'4d2b7b722f564526800fd7cb058303b5': '2fed1593855c46873731379f3ab2d669'});
 initializePlayer('opl4', 'https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd', {'3b05bcb11f664736993fd5c7ddc0a0cf': 'd1f6705e028f81615221b6a7da2c91ae'});
-initializePlayer('opl5', 'https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd', {'60d21f9bd2bc4def81b7196a4f375bbd': '5abae0e3b5bd439cc387a526a0eba70d'});
-initializePlayer('opl6', 'https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd', {'c3d1cabc9bac4bb7854f7a98abee21b2': '38b942982bfaa38cd031a656ab0c8f3c'});
+initializePlayer('opl5', 'https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd', {'60d21f9bd2bc4def81b7196a4f375bbd': '5abae0e3b5bd439cc387a526a0eba70d'});
+initializePlayer('opl6', 'https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd', {'c3d1cabc9bac4bb7854f7a98abee21b2': '38b942982bfaa38cd031a656ab0c8f3c'});
 
 
 
