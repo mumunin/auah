@@ -39,10 +39,19 @@ function onUIErrorEvent(errorEvent) {
 
 document.addEventListener('shaka-ui-loaded', function() {
 
+// OLIMPIC
+initializePlayer('opl1', 'https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd', {'237be8ca9383755e9f5784dd23f545eb': '15a723773c3b3cbce295c0aed0bc71c3'});
+initializePlayer('opl2', 'https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd', {'15382879a9bcfa6f1a04a86d5b4324e9': '664241133368ab039dc1fb15206ba54b'});
+initializePlayer('opl3', 'https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd', {'4d2b7b722f564526800fd7cb058303b5': '2fed1593855c46873731379f3ab2d669'});
+initializePlayer('opl4', 'https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd', {'3b05bcb11f664736993fd5c7ddc0a0cf': 'd1f6705e028f81615221b6a7da2c91ae'});
+initializePlayer('opl5', 'https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd', {'60d21f9bd2bc4def81b7196a4f375bbd': '5abae0e3b5bd439cc387a526a0eba70d'});
+initializePlayer('opl6', 'https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd', {'c3d1cabc9bac4bb7854f7a98abee21b2': '38b942982bfaa38cd031a656ab0c8f3c'});
+
+
 
 // OLIMPIC
-initializePlayer('opc1', 'https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd', {'d6b60d4db6f046ebb800b90bd9d08ad3': '6d1594f639ea5de668ba41a191d1c215'});
-initializePlayer('opc2', 'https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd', {'4d2b7b722f564526800fd7cb058303b5': '2fed1593855c46873731379f3ab2d669'});
+initializePlayer('opc1', 'https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd', {'d6b60d4db6f046ebb800b90bd9d08ad3': '6d1594f639ea5de668ba41a191d1c215'});
+initializePlayer('opc2', 'https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd', {'4d2b7b722f564526800fd7cb058303b5': '2fed1593855c46873731379f3ab2d669'});
 initializePlayer('opc3', 'https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd', {'3b05bcb11f664736993fd5c7ddc0a0cf': 'd1f6705e028f81615221b6a7da2c91ae'});
 initializePlayer('opc4', 'https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd', {'60d21f9bd2bc4def81b7196a4f375bbd': '5abae0e3b5bd439cc387a526a0eba70d'});
 initializePlayer('opc5', 'https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd', {'c3d1cabc9bac4bb7854f7a98abee21b2': '38b942982bfaa38cd031a656ab0c8f3c'});
