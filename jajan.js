@@ -74,6 +74,6 @@ initializePlayer('tnt3', 'https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/cli
 
 initializePlayer('tnt4', 'https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd', {'e31a5a81caff5d07ea2411a571fc2e59': '96c5ef69479732ae734f962748c19729'}, true);
 
-initializePlayer('tnt5u', 'https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd', {'60c0d9b41475e01db4ffb91ed557fbcc': '36ee40e58948ca15e3caba8d47b8f34b'}, true);
+initializePlayer('tnt5', 'https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd', {'60c0d9b41475e01db4ffb91ed557fbcc': '36ee40e58948ca15e3caba8d47b8f34b'}, true);
     
 });
