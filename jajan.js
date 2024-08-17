@@ -55,6 +55,8 @@ initializePlayer('premierebr5', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/l
 initializePlayer('premierebr6', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd', {'05cedc366ce4ec735ee4b33fcefbf01f':'475d6dd40eaba6896e02b26a6cf34d95'});
 initializePlayer('premierebr7', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd', {'7ce96e01eee54fb77e5cc4e7b753d6b0':'184f94303d3357b9a7381ccdeee9b611'});
 initializePlayer('premierebr8', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd', {'7ba384f9d983c731ab1e3702c16e2faf':'f28adca4375e8a041fd22aef26440009'});
+
+initializePlayer('usac', 'https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd', {'252a671825ba31ec8433f978c32ccf6d':'ee560759ecc8d2274df2e63fcef56915'});
     
 // SSC
 initializePlayer('ssc1', 'https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd', {'d84c325f36814f39bbe59080272b10c3': '550727de4c96ef1ecff874905493580f'});
