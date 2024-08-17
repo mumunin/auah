@@ -88,5 +88,16 @@ initializePlayer('orag1', 'https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/ind
 initializePlayer('orag2', 'https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'f75302cdb04a09e43f153095bcacd123': '307bf889d92969ffd3014dddb67999f6'});
 initializePlayer('orag3', 'https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'b87857ba74ce03f9fa2866f1e086d05d': '1cd289ac71ce5fb306a5e7653192ce3a'});
 initializePlayer('orag4', 'https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'202a927cd913101de765b0e5bb3f500f': 'cdd399869057bc34c827f257f562643a'});
-                 
+
+initializePlayer('arp1', 'https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('arp2', 'https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('arp3', 'https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('arpl', 'https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('ar1', 'https://webtvstream.bhtelecom.ba/hls6/arena1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('ar2', 'https://webtvstream.bhtelecom.ba/hls6/arena1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('ar3', 'https://webtvstream.bhtelecom.ba/hls6/arena1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('ar4', 'https://webtvstream.bhtelecom.ba/hls6/arena1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('ar5', 'https://webtvstream.bhtelecom.ba/hls6/arena1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+initializePlayer('ar6', 'https://webtvstream.bhtelecom.ba/hls6/arena1.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
+    
 });
