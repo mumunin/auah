@@ -82,7 +82,7 @@ initializePlayer('unifi1', 'https://pop5clustera00de07172379a62d6189.hypp.tv/PLT
 initializePlayer('prima1', 'https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'64fca4a48c14d2b32afcd53971cfa62c': 'fe003f7aeec40eb65d20b14edfda2a86'});
 initializePlayer('prima2', 'https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'96c311676c08545ea6aae37668e4a0df': '64fca4a48c14d2b32afcd53971cfa62c'});
 initializePlayer('prima3', 'https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'9404e7ae27dce22d69d41ffc29197cef': 'a6177128238fe775d5c74803e15ac175'});
-initializePlayer('prima4', 'https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC'
+initializePlayer('prima4', 'https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'c68ec2e525d8406b6c3cedbac72debae': 'a0f28f93fb9834d331df3ddedeb8a565'});
 
 initializePlayer('orag1', 'https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'b11517de312fcab5cba06be35e482138': '806573a74789a69651c162da4dbb5526'});
 initializePlayer('orag2', 'https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC', {'f75302cdb04a09e43f153095bcacd123': '307bf889d92969ffd3014dddb67999f6'});
