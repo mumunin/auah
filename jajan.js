@@ -39,13 +39,17 @@ function onUIErrorEvent(errorEvent) {
 
 document.addEventListener('shaka-ui-loaded', function() {
     
-initializePlayer('dazn1', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd', {'43d1c3b25207ff38b22ccfe17d302367': '7b1f85f6e81059473b114c16a25c829a'});
-initializePlayer('dazn2', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd', {'0b1fdeaee3ffc51e9a66cf1938d57aaf': '28e3cb88ab7b476b81ab8aa0624c4d71'});
+initializePlayer('dazn1', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd', {'44dd9cd370b08a868ead115fe84ecfde':'bff19ab0a51cf14e848389b152913fd0'});
+initializePlayer('dazn2', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd', {'0eab5a3f3e3b4ba5d42d40ca30d17571':'f3f061ded9b70e8160590d5802ecda6d'});
 initializePlayer('dazn3', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd', {'bad8efff688c0dbb3711e4a7114c22a3':'6ba800673b20776c0c850130d45e1920'});
 initializePlayer('dazn4', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd', {'d27104d427e4f87e75b19395a9f8796b':'723593c70e2d4c4862754398e80168f8'});
 initializePlayer('daznla', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd', {'6d08b265a6639e32da7c880d5491e3d2': '0c92556ca14b95f367993710e7cfbc94'});
 initializePlayer('daznf1', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd', {'1061be12d303247426ec25e8369b2647': 'bd622b0e610295de3b0bccb850ccaaaa'});
+initializePlayer('daznla1', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd', {'43d1c3b25207ff38b22ccfe17d302367': '7b1f85f6e81059473b114c16a25c829a'});
+initializePlayer('daznla2', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd', {'0b1fdeaee3ffc51e9a66cf1938d57aaf': '28e3cb88ab7b476b81ab8aa0624c4d71'});
 
+ initializePlayer('pt1', 'https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+   
 //BRAZIL
 initializePlayer('premierebr', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd', {'d98239180d8380b3a1bb28d875b1ddf2':'cf836ced579257d1c76ae8809818e6c4'});
 initializePlayer('premierebr2', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd', {'fd2e8019f37211ca8b78a8b656f1b83a':'273189c214e85b43ac36298d1c422330'});
