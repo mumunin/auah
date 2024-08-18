@@ -57,6 +57,7 @@ initializePlayer('pt6', 'https://getdazn.starlive.workers.dev/https://dcf-fs-liv
 
 initializePlayer('de1', 'https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 initializePlayer('de2', 'https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('digi', 'https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
    
 //BRAZIL
 initializePlayer('premierebr', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd', {'d98239180d8380b3a1bb28d875b1ddf2':'cf836ced579257d1c76ae8809818e6c4'});
