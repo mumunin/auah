@@ -154,6 +154,8 @@ initializePlayer('kom', 'https://proxy.tsuchikage.my.id/https://melon-live-cdn.m
 initializePlayer('kom', 'https://proxy.tsuchikage.my.id/https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd', {'4310edb8b9ffe79abb40bacafa778ec3': 'aebb7e86d8a336d9a93d3dd8a41153cf'});
 initializePlayer('net', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd', {'6b7bbcf1d511a56e6b3ceda392e4fa33': 'd1766244d7c1c44efd4c67aafae3ee7b'});
 
+nitializePlayer('soc', 'https://proxy.tsuchikage.my.id/https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd', {'4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366'});
+   
 initializePlayer('hbo1', 'https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
 initializePlayer('hbo2', 'https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd', {'473fabdc05ac4d9b94fd34f33f73394f': '1072b1e61206c3859607984f872e549c'});
 initializePlayer('hbo3', 'https://proxy.tsuchikage.my.id/https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd', {'363b551913124d6b80074ca295b25129': 'a6c6efcab0076d572e5732fb6451d19c'});
