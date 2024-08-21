@@ -140,6 +140,12 @@ initializePlayer('rcti', 'https://proxy.tsuchikage.my.id/https://cempedak-live-c
 initializePlayer('mnc', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-DD/sa_dash_vmx/MNCTV-DD.mpd', {'828e0aba9825c3546a2831e4c0c36f7f': 'f85d3dcd38981368ab3da597e97ebdcc'});
 initializePlayer('gtv', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/GTV-DD/sa_dash_vmx/GTV-DD.mpd', {'88f6c7cbd793374cb5f12d7e26dcd63b': 'e82daa7c7bfb03d99327463fdbd37336'});
 initializePlayer('inews', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-DD/sa_dash_vmx/iNewsTV-DD.mpd', {'a31cf5136789514b7e12b9cc99307c84': '980e54d671ffc2b2f4cf54e75cae0ac2'});
-initializePlayer('hbo', 'https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
+
+initializePlayer('hbo1', 'https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
+initializePlayer('hbo2', 'https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd', {'473fabdc05ac4d9b94fd34f33f73394f': '1072b1e61206c3859607984f872e549c'});
+initializePlayer('hbo3', 'https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd', {'363b551913124d6b80074ca295b25129': 'a6c6efcab0076d572e5732fb6451d19c'});
+initializePlayer('hbo4', 'https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd', {'90480f571f5d410891d7add7103c1e84': 'b64f887d2480bcaea992c2f0826449a9'});
+initializePlayer('hbo5', 'https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd', {'32bc2ee6869144b88bee3babf202f88e': '50d3b9ec49e1570621d45822923607f7'});
+initializePlayer('hbo6', 'https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd', {'607b7d22565c4bc3b95ff6c33ce65425': '28cc5367df666c44be4382e64af64d57'});
   
 });
