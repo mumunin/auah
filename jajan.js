@@ -135,5 +135,11 @@ initializePlayer('ar3', 'https://webtvstream.bhtelecom.ba/hls6/arena3.mpd', {'c1
 initializePlayer('ar4', 'https://webtvstream.bhtelecom.ba/hls6/arena4.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
 initializePlayer('ar5', 'https://webtvstream.bhtelecom.ba/hls6/arena5.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
 initializePlayer('ar6', 'https://webtvstream.bhtelecom.ba/hls6/arena6.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
-    
+
+initializePlayer('rcti', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd', {'9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30'});
+initializePlayer('mnc', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-DD/sa_dash_vmx/MNCTV-DD.mpd', {'828e0aba9825c3546a2831e4c0c36f7f': 'f85d3dcd38981368ab3da597e97ebdcc'});
+initializePlayer('gtv', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/GTV-DD/sa_dash_vmx/GTV-DD.mpd', {'88f6c7cbd793374cb5f12d7e26dcd63b': 'e82daa7c7bfb03d99327463fdbd37336'});
+initializePlayer('inews', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-DD/sa_dash_vmx/iNewsTV-DD.mpd', {'a31cf5136789514b7e12b9cc99307c84': '980e54d671ffc2b2f4cf54e75cae0ac2'});
+initializePlayer('hbo', 'https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
+  
 });
