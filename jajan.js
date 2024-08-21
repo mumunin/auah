@@ -61,7 +61,10 @@ initializePlayer('de3', 'https://getdazn.starlive.workers.dev/https://dcf-fs-liv
 initializePlayer('digi', 'https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 
 initializePlayer('spo1', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd', {'e60ece8f0d9042fcb52508055ec48e5e': '213f438bd4961cda987d41b7f154f1e5'});
-    
+initializePlayer('spo2', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd', {'e60ece8f0d9042fcb52508055ec48e5e': '213f438bd4961cda987d41b7f154f1e5'});
+initializePlayer('ad1', 'https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd', {'eb5a3a48f3e191a00e3ac1e2d470c491': '2c8b7198563527e524d66628c092ef1f'});
+initializePlayer('ad2', 'https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd', {'efca93272b9d34f5cf9d8598f43be5ea': '55e5fe489e9c18f6c979c3126d4bcfed'});
+
 //BRAZIL
 initializePlayer('premierebr', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd', {'d98239180d8380b3a1bb28d875b1ddf2':'cf836ced579257d1c76ae8809818e6c4'});
 initializePlayer('premierebr2', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd', {'fd2e8019f37211ca8b78a8b656f1b83a':'273189c214e85b43ac36298d1c422330'});
