@@ -73,6 +73,7 @@ initializePlayer('ad1', 'https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml
 initializePlayer('ad2', 'https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd', {'efca93272b9d34f5cf9d8598f43be5ea': '55e5fe489e9c18f6c979c3126d4bcfed'});
 
 initializePlayer('sn36', 'https://live-streaming-rsm.akamaized.net/sn360h/sn360h_cenc.isml/.mpd', {'9aa86d20170e4f80aad6288cabdeec0d': 'd007173f78a682cdfa794b2f766d38e3'});
+initializePlayer('vpre', 'https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd', {'eab13e69793756eda77d8d71fda90d5d': 'cd022e9bffa6a0d1523ee5d9fcda9ed4'});
     
 //BRAZIL
 initializePlayer('premierebr', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd', {'d98239180d8380b3a1bb28d875b1ddf2':'cf836ced579257d1c76ae8809818e6c4'});
