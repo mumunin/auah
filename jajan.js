@@ -89,6 +89,7 @@ initializePlayer('premierebr8', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/l
 initializePlayer('usac', 'https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd', {'252a671825ba31ec8433f978c32ccf6d':'ee560759ecc8d2274df2e63fcef56915'});
 initializePlayer('nbc', 'https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd', {'0045a118e231f1326bcdb45350b1ceaa':'8c13afbfa54ea37a368b8b859021f6e3'});
 initializePlayer('tel', 'https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd', {'e1f756cffcc838e28a3da6541c00ee8b':'1444b1c17a5c1f78435de12dcff47c8e'});
+initializePlayer('te4', 'https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd', {'c1c657aa160c5b328f1e76747534b913':'785e0773e9d534a00f4619315674ef7f'});
     
 // SSC
 initializePlayer('ssc1', 'https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd', {'d84c325f36814f39bbe59080272b10c3': '550727de4c96ef1ecff874905493580f'});
