@@ -170,7 +170,7 @@ initializePlayer('net', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cd
 
 initializePlayer('soc', 'https://proxy.tsuchikage.my.id/https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd', {'4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366'});
    
-initializePlayer('hbo1', 'https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
+initializePlayer('hbo1', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
 initializePlayer('hbo2', 'https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd', {'473fabdc05ac4d9b94fd34f33f73394f': '1072b1e61206c3859607984f872e549c'});
 initializePlayer('hbo3', 'https://proxy.tsuchikage.my.id/https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd', {'363b551913124d6b80074ca295b25129': 'a6c6efcab0076d572e5732fb6451d19c'});
 initializePlayer('hbo4', 'https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd', {'90480f571f5d410891d7add7103c1e84': 'b64f887d2480bcaea992c2f0826449a9'});
