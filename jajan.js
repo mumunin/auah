@@ -165,7 +165,7 @@ initializePlayer('tv7', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.m
 initializePlayer('ttv', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd', {'334950781f60a66f5e58324b70ac675d': '73caca97be8999ce9cfeb3babad8669d'});
 initializePlayer('one', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd', {'90204c05545f95a262bb0d3ac45de870': '0e80f2a19fdf8da476bf695cd9570bb2'});
 initializePlayer('kom', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd', {'493fd10e609dd02ae97964f438e7e530': '695cf9896182c52f1c3a25820e7778f5'});
-initializePlayer('kom', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd', {'4310edb8b9ffe79abb40bacafa778ec3': 'aebb7e86d8a336d9a93d3dd8a41153cf'});
+initializePlayer('ant', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd', {'4310edb8b9ffe79abb40bacafa778ec3': 'aebb7e86d8a336d9a93d3dd8a41153cf'});
 initializePlayer('net', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd', {'6b7bbcf1d511a56e6b3ceda392e4fa33': 'd1766244d7c1c44efd4c67aafae3ee7b'});
 
 initializePlayer('soc', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd', {'4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366'});
