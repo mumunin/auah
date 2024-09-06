@@ -76,6 +76,7 @@ initializePlayer('sn36', 'https://live-streaming-rsm.akamaized.net/sn360h/sn360h
 initializePlayer('vpre', 'https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd', {'eab13e69793756eda77d8d71fda90d5d': 'cd022e9bffa6a0d1523ee5d9fcda9ed4'});
 initializePlayer('liv', 'https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5012845-713970-48f24e35a32)/master.mpd', {'0022a94d0dfdddaa296f5f0915d47270':'491da02c8940ecb6c3eb392075734bf2'});
 initializePlayer('skype', 'https://cors-anywhere-batou.herokuapp.com/https://linear015-gb-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720-120.mpd', {'00058832b1c058c3de8b5d118cc775d4':'721345f25729d236d6bb317fce797b77'});
+initializePlayer('uni', 'https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd', {'232d71bb013d39ffb92ee8c576fb7e8e': '087408a48be8d57046c3868b37ea90ba'});
     
 //BRAZIL
 initializePlayer('premierebr', 'https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd', {'d98239180d8380b3a1bb28d875b1ddf2':'cf836ced579257d1c76ae8809818e6c4'});
