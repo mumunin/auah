@@ -71,6 +71,7 @@ initializePlayer('spo1', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD
 initializePlayer('spo2', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd', {'e6ed3fdf6e9f491d9ead109fc0b00cfc': '3bc6c45722eb5fa7b343de9bffc4f7c7'});
 initializePlayer('ad1', 'https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd', {'eb5a3a48f3e191a00e3ac1e2d470c491': '2c8b7198563527e524d66628c092ef1f'});
 initializePlayer('ad2', 'https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd', {'efca93272b9d34f5cf9d8598f43be5ea': '55e5fe489e9c18f6c979c3126d4bcfed'});
+initializePlayer('digs', 'https://svc40.main.sl.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd', {'64fdf75a9fc7fa2f0dc197ecdfd07eba': '44094f8dd29164989b9daecb9aabf4f2'});
 
 initializePlayer('sn36', 'https://live-streaming-rsm.akamaized.net/sn360h/sn360h_cenc.isml/.mpd', {'9aa86d20170e4f80aad6288cabdeec0d': 'd007173f78a682cdfa794b2f766d38e3'});
 initializePlayer('vpre', 'https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd', {'eab13e69793756eda77d8d71fda90d5d': 'cd022e9bffa6a0d1523ee5d9fcda9ed4'});
