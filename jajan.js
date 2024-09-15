@@ -48,24 +48,24 @@ initializePlayer('daznf1', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/c
 initializePlayer('daznla1', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd', {'43d1c3b25207ff38b22ccfe17d302367': '7b1f85f6e81059473b114c16a25c829a'});
 initializePlayer('daznla2', 'https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd', {'0b1fdeaee3ffc51e9a66cf1938d57aaf': '28e3cb88ab7b476b81ab8aa0624c4d71'});
 
-initializePlayer('pt1', 'https://dazn.xyssatuu.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt2', 'https://dazn.xyssatuu.workers.dev/https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt3', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt4', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt5', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt6', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt1', 'https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt2', 'https://dazn.gorra-sports.workers.dev/https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt4', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt5', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt6', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 
-initializePlayer('de1', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('de2', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('de3', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('digi', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('def1', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('da1', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-036/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('da2', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('da3', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pl1', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pl2', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pl3', 'https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('de1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('de2', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('de3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('digi', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('def1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('da1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-036/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('da2', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('da3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pl1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pl2', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pl3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 
 initializePlayer('spo1', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd', {'e60ece8f0d9042fcb52508055ec48e5e': '213f438bd4961cda987d41b7f154f1e5'});
 initializePlayer('spo2', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd', {'e6ed3fdf6e9f491d9ead109fc0b00cfc': '3bc6c45722eb5fa7b343de9bffc4f7c7'});
