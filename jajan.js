@@ -160,28 +160,27 @@ initializePlayer('ar4', 'https://webtvstream.bhtelecom.ba/hls6/arena4.mpd', {'c1
 initializePlayer('ar5', 'https://webtvstream.bhtelecom.ba/hls6/arena5.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
 initializePlayer('ar6', 'https://webtvstream.bhtelecom.ba/hls6/arena6.mpd', {'c18b6aa739be4c0b774605fcfb5d6b68': 'e41c3a6f7532b2e3a828d9580124c89d'});
 
-initializePlayer('rcti', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd', {'9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30'});
-initializePlayer('mnc', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd', {'828e0aba9825c3546a2831e4c0c36f7f': 'f85d3dcd38981368ab3da597e97ebdcc'});
-initializePlayer('gtv', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd', {'88f6c7cbd793374cb5f12d7e26dcd63b': 'e82daa7c7bfb03d99327463fdbd37336'});
+initializePlayer('rcti', 'https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd', {'9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30'});
+initializePlayer('mnc', 'https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd', {'828e0aba9825c3546a2831e4c0c36f7f': 'f85d3dcd38981368ab3da597e97ebdcc'});
+initializePlayer('gtv', 'https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd', {'88f6c7cbd793374cb5f12d7e26dcd63b': 'e82daa7c7bfb03d99327463fdbd37336'});
 initializePlayer('news', 'https://1s1.rctiplus.id/inews2023.m3u8', {'a31cf5136789514b7e12b9cc99307c84': '980e54d671ffc2b2f4cf54e75cae0ac2'});
 initializePlayer('sctv', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd', {'a79a188263724bfcaafc4a7c3b3cd8ce': '4d4732d93e6720de0ef884d7106e14f7'});
 initializePlayer('indo', 'https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd', {'5eaddccd893a47ac8b65f9b31963a3ae': '881afa67ea57b41c1822d745d67559e6'});
 initializePlayer('moji', 'https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd', {'052861ebedab473089d0e7480d0c5b63': '4d51aa0304af98c449fdec1548a199f9'});
-initializePlayer('rtv', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd', {'30384ee5424eab4afdff34d7a59e0ef9': '5f3d2f2c194266ae9a28210f8976cbe0'});
-initializePlayer('tv7', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd', {'26bd60e03bbed7819eea0b27075a1897': 'd221ba6a6ab66e3083c001d2c4a3e5c5'});
-initializePlayer('ttv', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd', {'334950781f60a66f5e58324b70ac675d': '73caca97be8999ce9cfeb3babad8669d'});
-initializePlayer('one', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd', {'90204c05545f95a262bb0d3ac45de870': '0e80f2a19fdf8da476bf695cd9570bb2'});
-initializePlayer('kom', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd', {'493fd10e609dd02ae97964f438e7e530': '695cf9896182c52f1c3a25820e7778f5'});
-initializePlayer('ant', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd', {'4310edb8b9ffe79abb40bacafa778ec3': 'aebb7e86d8a336d9a93d3dd8a41153cf'});
-initializePlayer('net', 'https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd', {'6b7bbcf1d511a56e6b3ceda392e4fa33': 'd1766244d7c1c44efd4c67aafae3ee7b'});
-
-initializePlayer('soc', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd', {'4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366'});
+initializePlayer('rtv', 'https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd', {'30384ee5424eab4afdff34d7a59e0ef9': '5f3d2f2c194266ae9a28210f8976cbe0'});
+initializePlayer('tv7', 'https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd', {'26bd60e03bbed7819eea0b27075a1897': 'd221ba6a6ab66e3083c001d2c4a3e5c5'});
+initializePlayer('ttv', 'https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd', {'334950781f60a66f5e58324b70ac675d': '73caca97be8999ce9cfeb3babad8669d'});
+initializePlayer('one', 'https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd', {'90204c05545f95a262bb0d3ac45de870': '0e80f2a19fdf8da476bf695cd9570bb2'});
+initializePlayer('kom', 'https://cempedak-cdn-fly.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd', {'493fd10e609dd02ae97964f438e7e530': '695cf9896182c52f1c3a25820e7778f5'});
+initializePlayer('ant', 'https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd', {'4310edb8b9ffe79abb40bacafa778ec3': 'aebb7e86d8a336d9a93d3dd8a41153cf'});
+initializePlayer('net', 'https://cempedak-cdn-fly.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd', {'6b7bbcf1d511a56e6b3ceda392e4fa33': 'd1766244d7c1c44efd4c67aafae3ee7b'});
+initializePlayer('soc', 'https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd', {'4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366'});
    
-initializePlayer('hbo1', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
-initializePlayer('hbo2', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd', {'473fabdc05ac4d9b94fd34f33f73394f': '1072b1e61206c3859607984f872e549c'});
-initializePlayer('hbo3', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd', {'363b551913124d6b80074ca295b25129': 'a6c6efcab0076d572e5732fb6451d19c'});
-initializePlayer('hbo4', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd', {'90480f571f5d410891d7add7103c1e84': 'b64f887d2480bcaea992c2f0826449a9'});
-initializePlayer('hbo5', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd', {'32bc2ee6869144b88bee3babf202f88e': '50d3b9ec49e1570621d45822923607f7'});
-initializePlayer('hbo6', 'https://cors-proxy.cooks.fyi/https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd', {'607b7d22565c4bc3b95ff6c33ce65425': '28cc5367df666c44be4382e64af64d57'});
+initializePlayer('hbo1', 'https://andi-cors-proxy-service-k8s.andisearch.com/https://proxy.tsuchikage.my.id/https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd', {'a407479f074d43d798478c1212d95876': '3afb53a2643939cd7128fa7ceded533a'});
+initializePlayer('hbo2', 'https://andi-cors-proxy-service-k8s.andisearch.com/https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd', {'473fabdc05ac4d9b94fd34f33f73394f': '1072b1e61206c3859607984f872e549c'});
+initializePlayer('hbo3', 'https://andi-cors-proxy-service-k8s.andisearch.com/https://proxy.tsuchikage.my.id/https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd', {'363b551913124d6b80074ca295b25129': 'a6c6efcab0076d572e5732fb6451d19c'});
+initializePlayer('hbo4', 'https://andi-cors-proxy-service-k8s.andisearch.com/https://proxy.tsuchikage.my.id/https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd', {'90480f571f5d410891d7add7103c1e84': 'b64f887d2480bcaea992c2f0826449a9'});
+initializePlayer('hbo5', 'https://andi-cors-proxy-service-k8s.andisearch.com/https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd', {'32bc2ee6869144b88bee3babf202f88e': '50d3b9ec49e1570621d45822923607f7'});
+initializePlayer('hbo6', 'https://andi-cors-proxy-service-k8s.andisearch.com//https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd', {'607b7d22565c4bc3b95ff6c33ce65425': '28cc5367df666c44be4382e64af64d57'});
   
 });
