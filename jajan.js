@@ -52,6 +52,7 @@ initializePlayer('bei1', 'https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_
 initializePlayer('bei2', 'https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd', {'57d2ac9210cfbca3596cc679a01c8b29': 'd5e35c0f39c76adf24853d7ea18c71e7'});
 initializePlayer('bei3', 'https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd', {'57d2ac9210cfbca3596cc679a01c8b29': 'd5e35c0f39c76adf24853d7ea18c71e7'});
 initializePlayer('sic2', 'https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd', {'45fec91ce1f19b6b1f31d69dcfaaf6cd': '843e228ab109e9aa6c4822ee4ad05d7d'});
+initializePlayer('eplo1', 'https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd', {'05093061005A5947C584AB77035ED678': 'ad206bf45075406da1ccfd824b4667c9'});
     
 initializePlayer('pt1', 'https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 initializePlayer('pt2', 'https://dazn.gorra-sports.workers.dev/https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
