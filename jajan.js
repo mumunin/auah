@@ -58,24 +58,24 @@ initializePlayer('eplo3', 'https://cdn9.tvplayhome.lt/live/eds2/VIP4/GO3_LIVE_DA
 initializePlayer('zeg1', 'https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd?p=web', {'16bf72dc22743d929c4318e193408373': 'eae51a1e3904124963074cbf432c7c8e'});
 initializePlayer('zog1', 'https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621', {'ef34ae91b4f2415e8439b2ad105e7488': '243248d8de1ff8c7c587ee2057317523'});
     
-initializePlayer('pt1', 'https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt2', 'https://dazn.gorra-sports.workers.dev/https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt4', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt5', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pt6', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt1', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-054/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt2', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-055/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt3', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-056/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt4', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-057/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt5', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-058/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pt6', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-059/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 
-initializePlayer('de1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('de2', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('de3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('digi', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('def1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('da1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-036/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('da2', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('da3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pl1', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pl2', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
-initializePlayer('pl3', 'https://dazn.gorra-sports.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('de1', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-017/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('de2', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-018/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('de3', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-024/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('digi', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-022/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('def1', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-016/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('da1', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-036/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('da2', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-037/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('da3', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-038/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pl1', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-051/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pl2', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-052/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
+initializePlayer('pl3', 'https://jarangoyang.donelfantastic.workers.dev/dazn-linear-053/stream.mpd', {'8ab47741930c476780515f9a00decb0a': '7ab4b9ae5a48aa526e511a913b832769'});
 
 initializePlayer('spo1', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd', {'e60ece8f0d9042fcb52508055ec48e5e': '213f438bd4961cda987d41b7f154f1e5'});
 initializePlayer('spo2', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd', {'e6ed3fdf6e9f491d9ead109fc0b00cfc': '3bc6c45722eb5fa7b343de9bffc4f7c7'});
