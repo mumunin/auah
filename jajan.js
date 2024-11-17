@@ -196,7 +196,7 @@ initializePlayer('kom', 'https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash_v
 initializePlayer('ant', 'https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd', {'4310edb8b9ffe79abb40bacafa778ec3': 'aebb7e86d8a336d9a93d3dd8a41153cf'});
 initializePlayer('net', 'https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd', {'6b7bbcf1d511a56e6b3ceda392e4fa33': 'd1766244d7c1c44efd4c67aafae3ee7b'});
    
-initializePlayer('hbo1', 'https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd', {'54c213b2b5f885f1e0290ee4131d425b': 'd47ebabf7a21430b83a8c4b82d9ef6b1'});
+initializePlayer('hbo1', 'https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd', {'d47ebabf7a21430b83a8c4b82d9ef6b1': '54c213b2b5f885f1e0290ee4131d425b'});
 initializePlayer('hbo2', 'https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd', {'a06ca6c275744151895762e0346380f5': '559da1b63eec77b5a942018f14d3f56f'});
 initializePlayer('hbo3', 'https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd', {'b04ae8017b5b4601a5a0c9060f6d5b7d': 'a8795f3bdb8a4778b7e888ee484cc7a1'});
 initializePlayer('hbo4', 'https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd', {'b207c44332844523a3a3b0469e5652d7': 'fe71aea346db08f8c6fbf0592209f955'});
