@@ -185,9 +185,9 @@ initializePlayer('rcti', 'https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_v
 initializePlayer('mnc', 'https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd', {'828e0aba9825c3546a2831e4c0c36f7f': 'f85d3dcd38981368ab3da597e97ebdcc'});
 initializePlayer('gtv', 'https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd', {'88f6c7cbd793374cb5f12d7e26dcd63b': 'e82daa7c7bfb03d99327463fdbd37336'});
 initializePlayer('news', 'https://1s1.rctiplus.id/inews2023.m3u8', {'a31cf5136789514b7e12b9cc99307c84': '980e54d671ffc2b2f4cf54e75cae0ac2'});
-initializePlayer('sctv', 'https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd', {'a79a188263724bfcaafc4a7c3b3cd8ce': '4d4732d93e6720de0ef884d7106e14f7'});
-initializePlayer('indo', 'https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd', {'5eaddccd893a47ac8b65f9b31963a3ae': '881afa67ea57b41c1822d745d67559e6'});
-initializePlayer('moji', 'https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd', {'052861ebedab473089d0e7480d0c5b63': '4d51aa0304af98c449fdec1548a199f9'});
+initializePlayer('sctv', 'https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8', {'a79a188263724bfcaafc4a7c3b3cd8ce': '4d4732d93e6720de0ef884d7106e14f7'});
+initializePlayer('ind', 'https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8', {'5eaddccd893a47ac8b65f9b31963a3ae': '881afa67ea57b41c1822d745d67559e6'});
+initializePlayer('moj', 'https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8', {'052861ebedab473089d0e7480d0c5b63': '4d51aa0304af98c449fdec1548a199f9'});
 initializePlayer('rtv', 'https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd', {'30384ee5424eab4afdff34d7a59e0ef9': '5f3d2f2c194266ae9a28210f8976cbe0'});
 initializePlayer('tv7', 'https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd', {'26bd60e03bbed7819eea0b27075a1897': 'd221ba6a6ab66e3083c001d2c4a3e5c5'});
 initializePlayer('ttv', 'https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd', {'334950781f60a66f5e58324b70ac675d': '73caca97be8999ce9cfeb3babad8669d'});
@@ -201,5 +201,6 @@ initializePlayer('hbo2', 'https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/c
 initializePlayer('hbo3', 'https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd', {'b04ae8017b5b4601a5a0c9060f6d5b7d': 'a8795f3bdb8a4778b7e888ee484cc7a1'});
 initializePlayer('hbo4', 'https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd', {'b207c44332844523a3a3b0469e5652d7': 'fe71aea346db08f8c6fbf0592209f955'});
 initializePlayer('tvn', 'https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8', {'32bc2ee6869144b88bee3babf202f88e': '50d3b9ec49e1570621d45822923607f7'});
-  
+initializePlayer('kplus', 'https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8', {'32bc2ee6869144b88bee3babf202f88e': '50d3b9ec49e1570621d45822923607f7'});
+
 });
