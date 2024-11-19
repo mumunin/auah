@@ -64,6 +64,11 @@ initializePlayer('zig5', 'https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.
 initializePlayer('zig6', 'https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web', {'16bf72dc22743d929c4318e193408373': 'eae51a1e3904124963074cbf432c7c8e'});
 initializePlayer('zig7', 'https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-fhd-avc/NL_000094_019321.mpd?p=web', {'16bf72dc22743d929c4318e193408373': 'eae51a1e3904124963074cbf432c7c8e'});
 
+initializePlayer('epn1', 'https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=tisa', {'3e999e38253834baa63881ea451f2839': '99b88d9cde1d8986decbc5985da87187'});
+initializePlayer('epn2', 'https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-fhd-avc/NL_000108_019561.mpd?p=tisa, {'3e999e38253834baa63881ea451f2839': '99b88d9cde1d8986decbc5985da87187'});
+initializePlayer('epn3', 'https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/go-dash-fhd-avc/NL_000109_019464.mpd?p=tisa', {'3e999e38253834baa63881ea451f2839': '99b88d9cde1d8986decbc5985da87187'});
+initializePlayer('epn4', 'https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-fhd-avc/NL_000110_019562.mpd?p=tisa', {'3e999e38253834baa63881ea451f2839': '99b88d9cde1d8986decbc5985da87187'});
+
 initializePlayer('go3r1', 'https://cdn6.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd', {'610ad79e26a84fc782c987455e21a86b': 'd2d4acc6e79447b55f3f5c0267af06f5'});
 initializePlayer('go3r2', 'https://cdn6.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd', {'3fc5ce88ae24460bafa447b53ab5f548': '476a55ef72c5e27e310668b1667da615'});
 initializePlayer('go3r3', 'https://cdn6.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd', {'a2a75672057f462089c2849b8184fcb0': '94899cace4911c617c27d8f878de2b43'});
